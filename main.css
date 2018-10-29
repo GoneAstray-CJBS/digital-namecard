@@ -46,6 +46,22 @@ img.profile-pic {
 	height: 100%;
 }
 
+.test1
+	{
+		position: relative;
+		top: 0;
+		left: 0;
+	}
+
+.test2
+	{
+		position: absolute;
+		bottom: 20px;
+		left: 20px;
+		height: 5%;
+		width: 5%;
+	}
+
 .row {
 	display: flex;
 	justify-content: center;
