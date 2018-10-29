@@ -21,19 +21,6 @@ a {
 	text-decoration: none;
 }
 
-.test1
-	{
-		position: relative;
-		top: 0;
-		left: 0;
-	}
-	.test2
-	{
-		position: absolute;
-		bottom: 20px;
-		left: 20px;
-	}
-	
 
 img {
 	display: block;
